@@ -1,2 +1,2 @@
 # solitude
-pet-project that i promise to start
+a pet-project that i hope to start
